@@ -1,0 +1,12 @@
+body{
+    background-color:#453a88;
+}
+.button{
+    background-color: #51af33;
+    width: 300px;
+    border-radius: 30px;
+}
+.Head{
+    position:relative ;
+    top: 0;
+}
